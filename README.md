@@ -35,17 +35,7 @@ Stove-Repair-Service-Center/
 - HTML5 → Structure  
 - CSS3 → Styling + responsive layout  
 - JavaScript (ES6) → Interactivity (if added later)  
-- Vercel → Deployment  
-
----
-
-📦 Setup Instructions
-1. Clone the repository:
-   `
-   
-   `
-2. Open index.html in your browser.  
-3. Explore pages like Services, Tools, and Contact.  
+- Vercel → Deployment   
 
 ---
 
